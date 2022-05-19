@@ -1,0 +1,12 @@
+{
+  "name": "react-request-api",
+  "version": "1.0.9",
+  "description": "I hope these hooks help you work with api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["hook", "api", "hookApi", "react-request", "react-api", "react-query"],
+  "author": "Abdumannon Norboyev",
+  "license": "ISC"
+}
